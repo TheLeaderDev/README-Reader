@@ -11,10 +11,9 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 <h1 align="left">Preview Images</h1>
 
 <p align="center">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/1.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/2.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/3.png?raw=true" width="250">
 </p>
 
 <br>
@@ -40,10 +39,9 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 <h1 align="right">تصاویر پیش‌نمایش</h1>
 
 <p align="center">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/1.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/2.png?raw=true" width="250">
+  <img src="https://raw.githubusercontent.com/TheLeaderDev/README-Reader/refs/heads/main/Preview/3.png?raw=true" width="250">
 </p>
 <br>
 
