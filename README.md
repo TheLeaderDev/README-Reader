@@ -18,9 +18,9 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 
 <br>
 
-<h1 align="left">Online Demo Version</h1>
+<h1 align="left">Online Version</h1>
 
-<a align="left" href="https://leaderdev.info/scan-host">Open Scan Host</a>
+<a align="left" href="https://leaderdev.info/README-Reader">Open Scan Host</a>
 
 
 <br>
@@ -45,9 +45,9 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 </p>
 <br>
 
-<h1 align="right">نسخه‌ی دمو آنلاین</h1>
+<h1 align="right">نسخه‌ی آنلاین</h1>
 
-<a align="right" href="https://leaderdev.info/scan-host">باز کردن Scan Host</a>
+<a align="right" href="https://leaderdev.info/README-Reader">باز کردن Scan Host</a>
 
 
 <br>
