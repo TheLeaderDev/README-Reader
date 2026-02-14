@@ -20,7 +20,7 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 
 <h1 align="left">Online Version</h1>
 
-<a align="left" href="https://leaderdev.info/README-Reader">Open Scan Host</a>
+<a align="left" href="https://leaderdev.info/README-Reader">Open README-Reader</a>
 
 
 <br>
@@ -47,7 +47,7 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 
 <h1 align="right">نسخه‌ی آنلاین</h1>
 
-<a align="right" href="https://leaderdev.info/README-Reader">باز کردن Scan Host</a>
+<a align="right" href="https://leaderdev.info/README-Reader">باز کردن README-Reader</a>
 
 
 <br>
