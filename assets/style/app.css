@@ -93,6 +93,8 @@ body {
   opacity: 0;
   transform: translateY(25px);
   transition: opacity 0.5s ease, transform 0.5s ease;
+  padding: 50px;
+
 }
 
 .markdown-body.show {
@@ -162,10 +164,10 @@ body {
 footer {
     text-align: center;
     padding: 15px 10px;
-    background: #0d1117;
+    background: #0d1117f8;
     color: #fff;
     font-size: 14px;
-    border-top: 1px solid rgba(255,255,255,0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.055);
     position: relative;
     bottom: 0;
     width: 100%;
