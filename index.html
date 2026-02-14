@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Offline README Viewer</title>
+<link rel="stylesheet" href="assets/style/app.css">
+<link rel="stylesheet" href="assets/style/github-markdown.css">
+</head>
+
+<body>
+
+<!-- Error Popup -->
+  <div class="error-popup" id="errorPopup">
+  <div class="error-box">
+    <h3>Invalid File</h3>
+    <p>File must be with .md extension only.</p>
+    <button id="closePopup">OK</button>
+  </div>
+</div>
+
+
+<label for="fileInput" class="upload-btn">
+  Select README File
+</label>
+<input type="file" id="fileInput" accept=".md">
+
+<!-- Skeleton -->
+<div class="skeleton" id="skeleton">
+  <div class="skeleton-title"></div>
+
+  <div class="skeleton-line long"></div>
+  <div class="skeleton-line medium"></div>
+  <div class="skeleton-line long"></div>
+  <div class="skeleton-line short"></div>
+
+  <div class="skeleton-line long"></div>
+  <div class="skeleton-line medium"></div>
+  <div class="skeleton-line long"></div>
+  <div class="skeleton-line long"></div>
+</div>
+
+<div class="markdown-body" id="content"></div>
+
+<!-- Footer -->
+<footer class="footer">
+    <a href="https://github.com/theleaderdev" target="_blank" class="footer-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" viewBox="0 0 24 24" style="vertical-align: middle; margin-left: 8px;">
+            <path d="M12 0C5.371 0 0 5.373 0 12c0 5.303 3.438 9.8 8.207 11.387.6.113.793-.26.793-.577v-2.234c-3.338.724-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.085 1.839 1.238 1.839 1.238 1.07 1.834 2.809 1.304 3.494.997.108-.775.419-1.304.762-1.604-2.665-.305-5.467-1.334-5.467-5.933 0-1.311.468-2.381 1.236-3.221-.124-.303-.536-1.527.117-3.176 0 0 1.008-.322 3.3 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.289-1.552 3.295-1.23 3.295-1.23.656 1.649.244 2.873.12 3.176.77.84 1.236 1.91 1.236 3.221 0 4.61-2.807 5.624-5.479 5.922.43.37.813 1.102.813 2.222v3.293c0 .319.192.694.801.576C20.565 21.796 24 17.301 24 12c0-6.627-5.373-12-12-12z"/>
+        </svg>
+        LeaderDev
+    </a>
+</footer>
+
+<script src="assets/script/app.js"></script>
+<script src="assets/script/marked.min.js"></script>
+
+</body>
+</html>
