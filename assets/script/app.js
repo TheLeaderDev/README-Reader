@@ -29,14 +29,13 @@ input.addEventListener("change", function(event) {
     setTimeout(() => {
       skeleton.style.display = "none";
 
-      content.innerHTML = parsed; // جایگزینی کامل محتوا
+      content.innerHTML = parsed; 
       content.style.display = "block";
 
       requestAnimationFrame(() => {
         content.classList.add("show");
       });
 
-      // 👇 این خط مهمه
       event.target.value = "";
 
     }, 2000);
@@ -48,3 +47,4 @@ input.addEventListener("change", function(event) {
 closePopup.addEventListener("click", () => {
   errorPopup.classList.remove("show");
 });
+
